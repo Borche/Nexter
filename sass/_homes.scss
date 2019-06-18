@@ -54,6 +54,11 @@
     margin-top: 2.5rem;
   }
 
+  // Andreas
+  &__price {
+    margin-right: 2rem;
+  }
+
   &__location,
   &__rooms,
   &__area,
@@ -61,6 +66,7 @@
 
     font-size: 1.5rem;
     margin-left: 2rem;
+
 
     display: flex;
     align-items: center;
